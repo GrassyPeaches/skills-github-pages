@@ -1,9 +1,9 @@
 ---
-title: "Welcome To My Blog!"
-date: YYYY-MM-DD
+ "Welcome To My Blog!"
+2025-06-15
 ---
 
-Hello World! 
+### Hello World! 
 Now that ^ is actually a great way to start a post, who woul-da thunk?!
 Grassy Peaches here, I am writing a blog because although I do enjoy penmanship, my hands have been cramping like crazy!
 Am I getting old? Maybe...
